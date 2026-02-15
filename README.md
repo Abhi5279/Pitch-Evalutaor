@@ -128,24 +128,6 @@ User → Pitch Submission → AI Structured Scoring → Weighted Score Calculati
 
 The scoring and explanation phases are intentionally separated to maintain deterministic score integrity.
 
-Project Structure
-PitchAI/
-│
-├── frontend/                 # React frontend
-│   ├── src/
-│   ├── pages/
-│   ├── components/
-│   └── api/
-│
-├── backend/                 # Express backend
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   ├── services/
-│   └── config/
-│
-└── README.md
-
 Local Development Setup
 1. Prerequisites
 
